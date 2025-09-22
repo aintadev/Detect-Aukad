@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detect Aukad - Advanced</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Detect Aukad</h1>
+        <p class="subtitle">Type anything and see if you have the AUKAD for it!</p>
+        
+        <div class="input-area">
+            <input type="text" id="userInput" placeholder="Type anything here..." autocomplete="off">
+            <button id="checkBtn">Check Aukad</button>
+        </div>
+        
+        <div class="level-bar">
+            <div class="level-progress" id="levelProgress"></div>
+        </div>
+        <div class="level-text" id="levelText">Aukad Level: 0</div>
+        
+        <div class="response-box">
+            <p class="response-text" id="response">Your aukad result will appear here...</p>
+        </div>
+        
+        <div class="stats">
+            <div class="stat-box">
+                <div class="stat-title">Wealth Status</div>
+                <div class="stat-value" id="wealthValue">₹0</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-title">Social Level</div>
+                <div class="stat-value" id="socialValue">0</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-title">Crazy Points</div>
+                <div class="stat-value" id="crazyValue">0</div>
+            </div>
+        </div>
+        
+        <div class="trophies">
+            <div class="trophy-title">Your Trophies</div>
+            <div class="trophy-container" id="trophyContainer">
+                <div class="trophy">No trophies yet!</div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
