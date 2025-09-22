@@ -11,3 +11,11 @@ https://detect-aukad.onrender.com/
 ```
 
 Amd Boom, That's it.
+
+## Tech Stack
+
+Not too much really, It's written on Vanilla HTML CSS JS, but comes with a cool slick gradient + frosted container 
+
+## License 
+
+it's under MIT License, So You can do whatever you want, I don't even know what's even in the license and you (probably) knew it 
