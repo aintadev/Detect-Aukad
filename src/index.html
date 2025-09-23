@@ -3,17 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Detect Aukad - Advanced</title>
+    <title>Detect Aukad</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div class="notification" id="notification">Copied to clipboard!</div>
+    
     <div class="container">
         <h1>Detect Aukad</h1>
         <p class="subtitle">Type anything and see if you have the AUKAD for it!</p>
         
+        <div class="language-toggle">
+            <button class="lang-btn active" id="hinglishBtn">Hinglish</button>
+            <button class="lang-btn" id="banglishBtn">Banglish</button>
+        </div>
+        
         <div class="input-area">
             <input type="text" id="userInput" placeholder="Type anything here..." autocomplete="off">
-            <button id="checkBtn">Check Aukad</button>
+            <div class="button-group">
+                <button id="checkBtn">Check Aukad</button>
+                <button id="challengeBtn">Get Challenge</button>
+            </div>
+            <button id="shareBtn">Share My Aukad</button>
+        </div>
+        
+        <div class="challenge-box" id="challengeBox">
+            <p class="challenge-text" id="challengeText"></p>
         </div>
         
         <div class="level-bar">
@@ -50,4 +65,4 @@
 
     <script src="script.js"></script>
 </body>
-</html>
+                    </html>
