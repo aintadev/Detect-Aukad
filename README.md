@@ -225,8 +225,8 @@ function trackEvent(category, action, label) {
 
 Current Languages
 
-· Hinglish: Hindi + English mix
-· Banglish: Bangla + English mix
+- Hinglish: Hindi + English mix
+- Banglish: Bangla + English mix
 
 ## Adding New Languages
 
@@ -243,17 +243,17 @@ Thanks to all the amazing contributors who have helped make Detect Aukad better!
 
 ## Inspiration
 
-· Classic text-based games
-· Indian internet culture and humor
-· Gamification psychology principles
-· Community feedback and suggestions
+- Classic text-based games
+- Indian internet culture and humor
+- Gamification psychology principles
+- Community feedback and suggestions
 
 ## Technologies Used
 
-· HTML5: Modern web standards
-· CSS3: Advanced styling and animations
-· JavaScript ES6+: Modern JavaScript features
-· LocalStorage API: Persistent data storage
+- HTML5: Modern web standards
+- CSS3: Advanced styling and animations
+- JavaScript ES6+: Modern JavaScript features
+- LocalStorage API: Persistent data storage
 
 ---
 
