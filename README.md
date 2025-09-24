@@ -2,7 +2,7 @@
 
 <div align="center">
 
-A hilarious Hinglish/Banglish browser game that determines if you have the "AUKAD" (status/wealth/level) to do whatever you type!
+A hilarious browser game that determines if you have the "AUKAD" (status/wealth/level) to do whatever you type!
 
 Play Now • Features • Installation • Contributing
 
