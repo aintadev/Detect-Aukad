@@ -10,7 +10,7 @@ Play Now • Features • Installation • Contributing
 
 📖 Table of Contents
 
-- #Overview
+- #🌟 Overview
 - #Features
 - #Quick Start
 - #Installation
