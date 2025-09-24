@@ -1,7 +1,7 @@
 <div align="center">
 
 # Detect Aukad 
-A hilarious browser game that determines if you have the "AUKAD" (status/wealth/level) to do whatever you type!
+A **hilarious** *browser* **game** that determines if you have the `AUKAD` to do whatever you type!
 
 </div>
 
