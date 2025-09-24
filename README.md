@@ -1,7 +1,6 @@
-# Detect Aukad 🎯
-
 <div align="center">
 
+# Detect Aukad 
 A hilarious browser game that determines if you have the "AUKAD" (status/wealth/level) to do whatever you type!
 
 Play Now • Features • Installation • Contributing
