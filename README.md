@@ -8,16 +8,6 @@ Play Now • Features • Installation • Contributing
 
 </div>
 
-📖 Table of Contents
-
-- #🌟 Overview
-- #Features
-- #Quick Start
-- #Installation
-- #Gameplay
-- #License
-- #Support
-
 # 🌟 Overview
 
 Detect Aukad is an **entertaining browser-based game** that combines humor, psychology, and gamification. Players type anything into a text box and receive randomized funny responses in *Hinglish* (Hindi+English) or *Banglish* (Bangla+English) that determine whether they have the `Aukad` (social status/wealth/level) to accomplish what they typed.
