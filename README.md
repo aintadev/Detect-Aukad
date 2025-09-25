@@ -48,6 +48,11 @@ Visit It to play the website:
 https://detect-aukad-home.onrender.com
 ```
 
+You can also visit the game in itch.io:
+```
+https://aintadev.itch.io/detect-aukad
+```
+
 # 🎮 Gameplay Guide
 
 ## Basic Gameplay
